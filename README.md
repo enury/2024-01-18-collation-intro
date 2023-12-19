@@ -6,7 +6,7 @@ Matériel pour workshop sur la collation automatique - Grenoble 2024
 ## Bienvenue !
 
 Clicker sur le bouton pour **lancer Binder** 
-[![Binder](https://mybinder.org/badge_logo.svg)](TODO: ajouter lien)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enury/2024-01-18-collation-intro/main)
 
 Ce dépôt restera disponible après le workshop. Pour **télécharger une copie** locale, utiliser le bouton vert "Code" et choisir "Download zip". Si vous savez ce que vous faites, clonez le dépôt !
 
