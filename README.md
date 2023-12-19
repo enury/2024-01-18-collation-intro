@@ -20,4 +20,4 @@ Le matériel de ce workshop réutilise des tutoriels précédents, dont:
   - le workshop DiXiT "Code and Collation: Training Textual Scholars" à Amsterdam en 2016 ([site web](https://sites.google.com/site/dixitcodingcollation/) | [Github](https://github.com/DiXiT-eu/collatex-tutorial)),
   - le [workshop CollateX](http://collatex.obdurodon.org/) de Sydney présenté lors de DH2016.
 
-De nombreuses personnes ont contribué à ces tutoriels, dont which Ronald Haentjens Dekker (le dévelopeur principal de CollateX) et, dans l'ordre alphabétique, Tara Andrews, Helena Bermúdez Sabel, David Birnbaum, Elli Bleeker, Elisa Nury, Leif-Jöran Olsson, Elena Spadini, Catherine Smith, Joris Van Zundert. F.
+De nombreuses personnes ont contribué à ces tutoriels, dont which Ronald Haentjens Dekker (le dévelopeur principal de CollateX) et, dans l'ordre alphabétique, Tara Andrews, Helena Bermúdez Sabel, David Birnbaum, Elli Bleeker, Elisa Nury, Leif-Jöran Olsson, Elena Spadini, Catherine Smith, Joris Van Zundert.
