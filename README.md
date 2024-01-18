@@ -25,8 +25,18 @@ Ce dépôt restera disponible après le workshop. Pour **télécharger une copie
 ## Contenu
 
 1. Introduction à Jupyter et Python
+   - Lancer le notebook Jupyter
+   - Opérations de base : texte et code
+   - Sauvegarde et téléchargement
+   - Python : types de données, variables, et fonctions
 
 3. Permiers pas avec CollateX
+   - Importer le module
+   - Première collation
+   - Paramètres de layout et segmentation
+   - Formats d'input
+   - Lecture d'un fichier
+   - Formats d'output
 
 ---
 
@@ -40,4 +50,4 @@ Le matériel de ce workshop réutilise des tutoriels précédents, dont:
 
 De nombreuses personnes ont contribué à ces tutoriels, dont Ronald Haentjens Dekker (le dévelopeur principal de CollateX) et, dans l'ordre alphabétique, Tara Andrews, Helena Bermúdez Sabel, David Birnbaum, Elli Bleeker, Elisa Nury, Leif-Jöran Olsson, Elena Spadini, Catherine Smith, Joris Van Zundert.
 
-Ce cours est présenté par Elisa Nury ([grammateus](https://grammateus.unige.ch), projet FNS [#212424](https://data.snf.ch/grants/grant/212424)) et Matthias Gille-Levenson.
+Ce cours est présenté par Elisa Nury (Université de Genève, [grammateus](https://grammateus.unige.ch), projet FNS [#212424](https://data.snf.ch/grants/grant/212424)) et Matthias Gille-Levenson.
