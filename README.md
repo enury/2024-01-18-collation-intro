@@ -50,4 +50,4 @@ Le matériel de ce workshop réutilise des tutoriels précédents, dont:
 
 De nombreuses personnes ont contribué à ces tutoriels, dont Ronald Haentjens Dekker (le dévelopeur principal de CollateX) et, dans l'ordre alphabétique, Tara Andrews, Helena Bermúdez Sabel, David Birnbaum, Elli Bleeker, Elisa Nury, Leif-Jöran Olsson, Elena Spadini, Catherine Smith, Joris Van Zundert.
 
-Ce cours est présenté par Elisa Nury (Université de Genève, [grammateus](https://grammateus.unige.ch), projet FNS [#212424](https://data.snf.ch/grants/grant/212424)) et Matthias Gille-Levenson.
+Ce cours est présenté par Elisa Nury (Université de Genève, [grammateus](https://grammateus.unige.ch), projet FNS [#212424](https://data.snf.ch/grants/grant/212424)) et Matthias Gille-Levenson (École nationale des chartes / ENS de Lyon).
